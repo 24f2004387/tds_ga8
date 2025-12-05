@@ -1,13 +1,12 @@
-# Investment Portfolio Circle Packing
+# Circle Packing – Investment Portfolio Visualization
 
-This repository contains a Circle Packing visualization of an investment portfolio, created using RAWGraphs.
+This repository contains a Circle Packing chart created using RAWGraphs for visualizing investment portfolio allocation across sectors and individual assets.
 
-- **Student email**: 24f2004387@ds.study.iitm.ac.in  
-- **Tool used**: RAWGraphs (Circle Packing chart)  
-- **Image file**: `chart.png` (exported PNG, 400x400–512x512 px)
+- **Email:** 24f2004387@ds.study.iitm.ac.in
+- **Visualization tool:** RAWGraphs (Circle Packing)
+- **Export format:** PNG (within 300–512px dimensions)
 
-The data represents portfolio allocation across sectors and individual assets, with:
-
-- `sector` as the top-level hierarchy
-- `asset` as the nested level
-- `investment` as the size of each circle
+The visualization highlights:
+- Hierarchical portfolio allocation from **sectors → assets**
+- Circle **size representing investment value**
+- **Color used to differentiate sectors**
